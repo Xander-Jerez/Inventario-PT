@@ -1,0 +1,20 @@
+{
+    "Producto":{
+        "codigo":{
+            "type":"String",
+            "required":true
+        },
+        "nombre":{
+            "type":"String",
+            "required":true
+        },
+        "cantidad":{
+            "type":"Number",
+            "required":true
+        },
+        "descripcion":{
+            "type":"String",
+            "required":false
+        }
+    }
+}
